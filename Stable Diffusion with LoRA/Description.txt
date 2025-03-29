@@ -4,3 +4,5 @@ rather than creating new models from scratch for these purposes. This approach b
 I decided to try to use the fine-tuning methods for image generation based on the textual prompt. 
 As a result, we will be able to generate images aligning with a particular style. 
 For doing this, we will use the following source: https://huggingface.co/blog/lora  (LoRA for Stable Diffusion).
+
+Note that all the images were generated only for educational purposes using the open-source model!
