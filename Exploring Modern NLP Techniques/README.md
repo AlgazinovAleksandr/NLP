@@ -17,7 +17,7 @@ This project delves into various aspects of Natural Language Processing, coverin
 * Ensured model outputs were structured (e.g., JSON/YAML) including Question ID, Reasoning Process, Final Answer, and Difficulty Classification
 * *(Comparison of few-shot vs. zero-shot performance is included in the report)
 
-## 2. NLP Architecture Analysis
+## 2. Architecture Analysis
 
 * Calculated and compared the Model Size, KV Cache Size, and Forward Pass FLOPs for different transformer-based architectures
 * Analyzed architectures included:
@@ -32,7 +32,7 @@ This project delves into various aspects of Natural Language Processing, coverin
     * **FLOPs:** Floating-point operations for a forward pass, approximating computational cost
 * *(Detailed derivations, results table, and comparative analysis of computational/memory trade-offs are provided in the report)
 
-## 3. Model Implementation: Modifying Qwen2.5
+## 3. Model Architecture Modification
 
 This part involved modifying the Qwen2.5 model architecture. The specific modifications implemented in `modeling_qwen2.py` include:
 
