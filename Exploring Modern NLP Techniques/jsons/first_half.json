@@ -1,0 +1,22 @@
+{
+    "Question ID": [
+        1025,
+        1055,
+        1669
+    ],
+    "Reasoning Process": [
+        "There were 800 x 20/100 = <<800*20/100=160>>160 parents who agreed to the tuition fee increase.\nSo, there were 800 - 160 = <<800-160=640>>640 parents who disagreed.",
+        "New York is two-thirds as populated as all of New England, meaning there are 2/3*2100000 = <<2/3*2100000=1400000>>1400000 people living in New York.\nThe combined population of both states is 1400000+2100000 = <<1400000+2100000=3500000>>3500000",
+        "We have 56 + 40 = <<56+40=96>>96 animals other than goats.\nSo, we have 200 \u2013 96 = <<200-96=104>>104 goats"
+    ],
+    "Final Answer": [
+        " 640",
+        " 3500000",
+        " 104"
+    ],
+    "Difficulty Classification": [
+        2,
+        2,
+        2
+    ]
+}

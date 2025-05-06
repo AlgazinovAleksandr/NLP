@@ -1,0 +1,10 @@
+{
+    "Question ID": [1297, 4336, 5196],
+    "Reasoning Process": [
+      "There are 40 students; 80% have puppies, so 0.80×40 = 32 students. Of those, 25% also have parrots, so 0.25×32 = 8 students.",
+      "Jonah burns 30 calories per hour. In 2 hours he burns 2×30 = 60 calories; in 5 hours he would burn 5×30 = 150 calories. The difference is 150 − 60 = 90 calories.",
+      "Mark reads 2 hours per day for 7 days, so 2×7 = 14 hours per week. He adds 4 hours weekly, giving 14 + 4 = 18 hours."
+    ],
+    "Final Answer": [8, 90, 18],
+    "Difficulty Classification": [1, 1, 1]
+}

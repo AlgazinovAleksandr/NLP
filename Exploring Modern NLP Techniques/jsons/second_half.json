@@ -1,0 +1,22 @@
+{
+    "Question ID": [
+        3463,
+        5368,
+        5833
+    ],
+    "Reasoning Process": [
+        "He bought 20+15=<<20+15=35>>35 cards\nSo he spent 35*2=$<<35*2=70>>70",
+        "There are 30*2 = <<30*2=60>>60 pieces of ham put on the pizza.\nThere are 30+12 = <<30+12=42>>42 pieces of sausage put on the pizza.\nThere are 30/6 = <<30/6=5>>5 pieces of pepperoni on each pizza slice.\nThere are 60/6 = <<60/6=10>>10 pieces of ham on each pizza slice.\nThere are 42/6 = <<42/6=7>>7 pieces of sausage on each pizza slice.\nThere are 5+10+7 = <<5+10+7=22>>22 pieces altogether on each slice of pizza.",
+        "Three shirts cost 3 * 5 = $<<3*5=15>>15.\nTwo pairs of jeans would cost 2 * 10 = $<<2*10=20>>20.\nFour hats would in total cost 4 * 4 = $<<4*4=16>>16.\nSo for three shirts, two pairs of jeans, and four hats, you would need to pay 15 + 20 + 16 = $<<15+20+16=51>>51."
+    ],
+    "Final Answer": [
+        " 70",
+        " 22",
+        " 51"
+    ],
+    "Difficulty Classification": [
+        2,
+        3,
+        2
+    ]
+}
